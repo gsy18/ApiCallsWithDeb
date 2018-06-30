@@ -16,7 +16,8 @@ ApiCallsWithDeb can be launched from both commandline and Netbeans IDE.
 ### Using Netbeans
 1. Download and open project with Netbeans 8.2
 2. Add downloaded tool.jar into classpath of project
-3. Run project
+3. Add package name of Android App in project arguments
+4. Run project
 
 ### Using commandline
-1. Run ApiCallsWithDeb using `java -jar ApiCallsWithDeb.jar`
+1. Run ApiCallsWithDeb using `java -jar ApiCallsWithDeb.jar packageNameOfApp`
