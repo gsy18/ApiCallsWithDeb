@@ -3,6 +3,10 @@ ApiCallsWithDeb is a tool written using Java Debug Interface java debugger API f
 methodcalls of methods 
 defined in the Android App.
 
+## Prerequisite
+1. Java 8 or higher
+2. Android Adb tools (add platform-tools directory to path)
+
 ## Usage
 
 ### Runnning App
